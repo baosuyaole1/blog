@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,N as l}from"./chunks/framework.5b6ea098.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"view/vue3源码解析/vue3框架设计的基本概念2.md"}'),p={name:"view/vue3源码解析/vue3框架设计的基本概念2.md"},i=l("",26),c=[i];function a(d,r,n,s,_,u){return o(),t("div",null,c)}const v=e(p,[["render",a]]);export{m as __pageData,v as default};

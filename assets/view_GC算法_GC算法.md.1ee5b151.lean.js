@@ -1,0 +1,1 @@
+import{_ as a,o as l,c as e,N as i}from"./chunks/framework.5b6ea098.js";const q=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"view/GC算法/GC算法.md"}'),t={name:"view/GC算法/GC算法.md"},o=i("",8),r=[o];function u(h,n,c,s,d,p){return l(),e("div",null,r)}const b=a(t,[["render",u]]);export{q as __pageData,b as default};

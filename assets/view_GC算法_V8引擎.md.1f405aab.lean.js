@@ -1,1 +1,0 @@
-import{_ as l,c as a,o as i,N as e}from"./chunks/framework.294d0221.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"view/GC算法/V8引擎.md"}'),o={name:"view/GC算法/V8引擎.md"},r=e("",20),t=[r];function h(n,d,c,s,_,u){return i(),a("div",null,t)}const m=l(o,[["render",h]]);export{b as __pageData,m as default};
